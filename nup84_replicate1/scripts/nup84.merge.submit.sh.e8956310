@@ -1,0 +1,16 @@
+Traceback (most recent call last):
+  File "nup84.merge.py", line 42, in <module>
+    is_mpi=True
+TypeError: clustering() got an unexpected keyword argument 'is_mpi'
+Traceback (most recent call last):
+  File "nup84.merge.py", line 42, in <module>
+    is_mpi=True
+TypeError: clustering() got an unexpected keyword argument 'is_mpi'
+Traceback (most recent call last):
+  File "nup84.merge.py", line 42, in <module>
+    is_mpi=True
+TypeError: clustering() got an unexpected keyword argument 'is_mpi'
+--------------------------------------------------------------------------
+mpirun noticed that the job aborted, but has no info as to the process
+that caused that situation.
+--------------------------------------------------------------------------
